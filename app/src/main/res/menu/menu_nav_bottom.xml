@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_nowPlaying"
+        android:title="Now Playing"
+        android:icon="@drawable/ic_nowplaying"/>
+    <item android:id="@+id/item_topRating"
+        android:title="Top Rating"
+        android:icon="@drawable/ic_toprating"/>
+    <item android:id="@+id/item_myFavorite"
+        android:title="My Favorite"
+        android:icon="@drawable/ic_myfavorite"/>
+</menu>
